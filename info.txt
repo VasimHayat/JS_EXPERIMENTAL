@@ -1,0 +1,6 @@
+Type of Data
+
+String
+Int-- Number
+Boolean 
+Object   
